@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+ .header {
+     padding : 5px 20px;
+     display: flex;
+     align-items: center;
+     gap: 10px;
+
+ }
+
+ .header h1 {
+    font-size: 1.3rem;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+ img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+ .header__logo {
+     max-height: 45px;
+     max-height: 200px;
+ }
+
+ .header__restaurant-name {
+     flex-grow: 1;
+ }
+
+ .header__logo {
+    max-height: 45px;
+    max-width: 200px;
+}
