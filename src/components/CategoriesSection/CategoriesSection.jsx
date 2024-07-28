@@ -8,9 +8,7 @@ import MenuProduct from '../MenuProduct/MenuProduct';
 
 function CategoriesSection() {
      
-     
      return (
-          
           <> 
              {/* {
               categories.map((item) => (

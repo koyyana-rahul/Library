@@ -4,17 +4,10 @@ import cse from '../MenuProductData/CSE';
 import ece from '../MenuProductData/ECE';
 import eee from '../MenuProductData/ECE';
 import mech from '../MenuProductData/MECH';
-import civil from '../MenuProductData/CIVIL';
-
-
 
 function MenuProduct() {
      return (
           <>
-
-
-
-          
           
 
                           
