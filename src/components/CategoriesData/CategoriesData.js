@@ -29,72 +29,7 @@ const categories = [
           categoryName: "CIVIL",
           
      },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/curry/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/curry-rice_1f35b3.png?v3",
-          categoryName: "curry",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/popular/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/popular.png?v3",
-          categoryName: "Popular",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/curry/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/curry-rice_1f35b3.png?v3",
-          categoryName: "curry",
-          
-     },     
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/popular/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/popular.png?v3",
-          categoryName: "Popular",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/curry/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/curry-rice_1f35b3.png?v3",
-          categoryName: "curry",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/popular/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/popular.png?v3",
-          categoryName: "Popular",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/curry/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/curry-rice_1f35b3.png?v3",
-          categoryName: "curry",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/popular/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/popular.png?v3",
-          categoryName: "Popular",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/curry/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/curry-rice_1f35b3.png?v3",
-          categoryName: "curry",
-          
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/popular/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/popular.png?v3",
-          categoryName: "Popular",
-         
-     },
-     {
-          categoryUrl: "https://menu.instalacarte.com/menu/s/en/wagamama/curry/all/",
-          categoryImage: "https://instalacarte.com/media/cache/emoji_small/emoji/curry-rice_1f35b3.png?v3",
-          categoryName: "curry",
-         
-     },  
+     
 
 ];
 export default categories;
